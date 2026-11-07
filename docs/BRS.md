@@ -1,7 +1,7 @@
 # Business Requirements Specification (BRS)
 
 **Product:** HydroGuard (articles-hydroguard-fdd)
-*Reconstructed from the README, the requirements document, the TRL assessment and the tests of this repository. Not reviewed by the owner. A patent attorney must review before publication of method details.*
+*Reconstructed from the README, the requirements document, the TRL assessment and the tests of this repository. Not reviewed by the owner. Do not publish method details covered by filed claims.*
 
 ## 1. Business problem
 Condition monitoring of hydraulic equipment (pumps, valves, coolers, accumulators) usually returns a single guess for each component. An operator needs to know how far to trust it, and when a cycle looks like nothing seen before.
